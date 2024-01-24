@@ -8,7 +8,7 @@ public class JenkinController {
 	@GetMapping(value="/getdata")
 	public String getName()
 	{
-		return "moni";
+		return "monika";
 	}
 
 }
